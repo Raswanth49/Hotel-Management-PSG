@@ -58,9 +58,6 @@ rinsert ()
   }
   fprintf(ptr,"%d",a);
   fclose(ptr);
- 
-   
-  
 }
 
 void
